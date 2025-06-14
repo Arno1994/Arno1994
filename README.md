@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arno1994
-- 👀 I’m interested in Chemical Engineering and Research and Development
+- 👀 I’m interested in Chemical Engineering, Research and Development and Data Driven projects
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: arnoclaase@gmail.com
